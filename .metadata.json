@@ -1,0 +1,26 @@
+[
+  {
+    "package": "bpa",
+    "oncran": true
+  },
+  {
+    "package": "fastshap",
+    "oncran": true
+  },
+  {
+    "package": "investr",
+    "oncran": true
+  },
+  {
+    "package": "pdp",
+    "oncran": true
+  },
+  {
+    "package": "ramify",
+    "oncran": true
+  },
+  {
+    "package": "roundhouse",
+    "oncran": true
+  }
+]
