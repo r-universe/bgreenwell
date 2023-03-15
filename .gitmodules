@@ -33,3 +33,8 @@
 	url = https://github.com/bgreenwell/roundhouse
 	shallow = true
 	registered = true
+[submodule "treemisc"]
+	path = treemisc
+	url = https://github.com/bgreenwell/treemisc
+	shallow = true
+	registered = true
