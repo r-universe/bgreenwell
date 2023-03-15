@@ -1,13 +1,5 @@
 [
   {
-    "package": "ramify",
-    "oncran": true
-  },
-  {
-    "package": "investr",
-    "oncran": true
-  },
-  {
     "package": "bpa",
     "oncran": true
   },
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
+    "package": "investr",
+    "oncran": true
+  },
+  {
     "package": "pdp",
+    "oncran": true
+  },
+  {
+    "package": "ramify",
     "oncran": true
   },
   {
