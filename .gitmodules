@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ramify"]
+	path = ramify
+	url = https://github.com/bgreenwell/ramify
+	shallow = true
+	registered = true
+[submodule "investr"]
+	path = investr
+	url = https://github.com/bgreenwell/investr
+	shallow = true
+	registered = true
 [submodule "bpa"]
 	path = bpa
 	url = https://github.com/bgreenwell/bpa
@@ -13,19 +23,9 @@
 	url = https://github.com/bgreenwell/fastshap
 	shallow = true
 	registered = true
-[submodule "investr"]
-	path = investr
-	url = https://github.com/bgreenwell/investr
-	shallow = true
-	registered = true
 [submodule "pdp"]
 	path = pdp
 	url = https://github.com/bgreenwell/pdp
-	shallow = true
-	registered = true
-[submodule "ramify"]
-	path = ramify
-	url = https://github.com/bgreenwell/ramify
 	shallow = true
 	registered = true
 [submodule "roundhouse"]
