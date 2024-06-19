@@ -20,6 +20,3 @@
 [submodule "roundhouse"]
 	path = roundhouse
 	url = https://github.com/bgreenwell/roundhouse
-[submodule "treemisc"]
-	path = treemisc
-	url = https://github.com/bgreenwell/treemisc
