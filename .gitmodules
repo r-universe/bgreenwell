@@ -5,6 +5,9 @@
 [submodule "bpa"]
 	path = bpa
 	url = https://github.com/bgreenwell/bpa
+[submodule "ebm"]
+	path = ebm
+	url = https://github.com/bgreenwell/ebm
 [submodule "fastshap"]
 	path = fastshap
 	url = https://github.com/bgreenwell/fastshap
