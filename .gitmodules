@@ -23,3 +23,6 @@
 [submodule "roundhouse"]
 	path = roundhouse
 	url = https://github.com/bgreenwell/roundhouse
+[submodule "statlingua"]
+	path = statlingua
+	url = https://github.com/bgreenwell/statlingua
