@@ -26,3 +26,6 @@
 [submodule "statlingua"]
 	path = statlingua
 	url = https://github.com/bgreenwell/statlingua
+[submodule "sure"]
+	path = sure
+	url = https://github.com/bgreenwell/sure
