@@ -1,13 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bgreenwell/bgreenwell.r-universe.dev
 	branch = HEAD
-[submodule "bpa"]
-	path = bpa
-	url = https://github.com/bgreenwell/bpa
-[submodule "ebm"]
-	path = ebm
-	url = https://github.com/bgreenwell/ebm
 [submodule "fastshap"]
 	path = fastshap
 	url = https://github.com/bgreenwell/fastshap
@@ -17,15 +11,9 @@
 [submodule "pdp"]
 	path = pdp
 	url = https://github.com/bgreenwell/pdp
-[submodule "ramify"]
-	path = ramify
-	url = https://github.com/bgreenwell/ramify
-[submodule "roundhouse"]
-	path = roundhouse
-	url = https://github.com/bgreenwell/roundhouse
-[submodule "statlingua"]
-	path = statlingua
-	url = https://github.com/bgreenwell/statlingua
 [submodule "sure"]
 	path = sure
 	url = https://github.com/bgreenwell/sure
+[submodule "vip"]
+	path = vip
+	url = https://github.com/bgreenwell/vip
