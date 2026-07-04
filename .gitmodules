@@ -18,3 +18,4 @@
 [submodule "vip"]
 	path = vip
 	url = https://github.com/bgreenwell/vip
+	branch = main
