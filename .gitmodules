@@ -12,6 +12,11 @@
 	path = pdp
 	url = https://github.com/bgreenwell/pdp
 	branch = main
+[submodule "statlingo"]
+	path = statlingo
+	url = https://github.com/bgreenwell/statlingo
+	branch = main
+	subdir = r
 [submodule "sure"]
 	path = sure
 	url = https://github.com/bgreenwell/sure
