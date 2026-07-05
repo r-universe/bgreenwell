@@ -5,6 +5,7 @@
 [submodule "fastshap"]
 	path = fastshap
 	url = https://github.com/bgreenwell/fastshap
+	branch = main
 [submodule "investr"]
 	path = investr
 	url = https://github.com/bgreenwell/investr
