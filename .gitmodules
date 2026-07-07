@@ -21,6 +21,7 @@
 [submodule "sure"]
 	path = sure
 	url = https://github.com/bgreenwell/sure
+	branch = main
 [submodule "vip"]
 	path = vip
 	url = https://github.com/bgreenwell/vip
