@@ -9,6 +9,7 @@
 [submodule "investr"]
 	path = investr
 	url = https://github.com/bgreenwell/investr
+	branch = main
 [submodule "pdp"]
 	path = pdp
 	url = https://github.com/bgreenwell/pdp
